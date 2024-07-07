@@ -1,0 +1,770 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "buzzNumber1",
+            "request": "launch",
+            "mainClass": "buzzNumber1",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "BuzzNumber",
+            "request": "launch",
+            "mainClass": "BuzzNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "primeNUmber",
+            "request": "launch",
+            "mainClass": "primeNUmber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "LargestDigit",
+            "request": "launch",
+            "mainClass": "LargestDigit",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "fun",
+            "request": "launch",
+            "mainClass": "fun",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "div5or10",
+            "request": "launch",
+            "mainClass": "div5or10",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Arr",
+            "request": "launch",
+            "mainClass": "Arr",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "arra",
+            "request": "launch",
+            "mainClass": "arra",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "SpyNumber",
+            "request": "launch",
+            "mainClass": "SpyNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "TotalNumber",
+            "request": "launch",
+            "mainClass": "TotalNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ToatalNumber",
+            "request": "launch",
+            "mainClass": "ToatalNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEvenOdd",
+            "request": "launch",
+            "mainClass": "SumOfEvenOdd",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "FirstDigit",
+            "request": "launch",
+            "mainClass": "FirstDigit",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "LastDigit",
+            "request": "launch",
+            "mainClass": "LastDigit",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "familyMethod1",
+            "request": "launch",
+            "mainClass": "familyMethod1",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "practicaljava",
+            "request": "launch",
+            "mainClass": "practicaljava",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "OneDimestionalArray",
+            "request": "launch",
+            "mainClass": "OneDimestionalArray",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "programs",
+            "request": "launch",
+            "mainClass": "programs",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ArrayProgram",
+            "request": "launch",
+            "mainClass": "ArrayProgram",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "if_else.OddEven",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "PrintTable1To10",
+            "request": "launch",
+            "mainClass": "PrintTable1To10",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "printTable1To10",
+            "request": "launch",
+            "mainClass": "printTable1To10",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "printEvem1To100",
+            "request": "launch",
+            "mainClass": "printEvem1To100",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ReverseTable",
+            "request": "launch",
+            "mainClass": "ReverseTable",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Absolutevalue",
+            "request": "launch",
+            "mainClass": "Absolutevalue",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ArrayDecelaration",
+            "request": "launch",
+            "mainClass": "ArrayDecelaration",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ArraySerach",
+            "request": "launch",
+            "mainClass": "ArraySerach",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseCompliment",
+            "request": "launch",
+            "mainClass": "BitwiseCompliment",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOR",
+            "request": "launch",
+            "mainClass": "BitwiseOR",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseXOR",
+            "request": "launch",
+            "mainClass": "BitwiseXOR",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Challanges",
+            "request": "launch",
+            "mainClass": "Challanges",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "CompoundInterest",
+            "request": "launch",
+            "mainClass": "CompoundInterest",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Divisibleby5or3",
+            "request": "launch",
+            "mainClass": "Divisibleby5or3",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "EvenoddBitwise",
+            "request": "launch",
+            "mainClass": "EvenoddBitwise",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "EvenorOdd",
+            "request": "launch",
+            "mainClass": "EvenorOdd",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "GretestofTwonumber",
+            "request": "launch",
+            "mainClass": "GretestofTwonumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperatorr",
+            "request": "launch",
+            "mainClass": "LogicalOperatorr",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "MaxMinEqual",
+            "request": "launch",
+            "mainClass": "MaxMinEqual",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Nested_if_else",
+            "request": "launch",
+            "mainClass": "Nested_if_else",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "SumOFDigit",
+            "request": "launch",
+            "mainClass": "SumOFDigit",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "SwapFunction",
+            "request": "launch",
+            "mainClass": "SwapFunction",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Switch_case_days",
+            "request": "launch",
+            "mainClass": "Switch_case_days",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Switch_case_numberprint",
+            "request": "launch",
+            "mainClass": "Switch_case_numberprint",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Switch_claculator",
+            "request": "launch",
+            "mainClass": "Switch_claculator",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "Switch_month",
+            "request": "launch",
+            "mainClass": "Switch_month",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "TwoDigitNumber",
+            "request": "launch",
+            "mainClass": "TwoDigitNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "agegroup",
+            "request": "launch",
+            "mainClass": "agegroup",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "areaofcircle",
+            "request": "launch",
+            "mainClass": "areaofcircle",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "arithematicprogram",
+            "request": "launch",
+            "mainClass": "arithematicprogram",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "arithmeticOperator",
+            "request": "launch",
+            "mainClass": "arithmeticOperator",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "bitwiseAnd",
+            "request": "launch",
+            "mainClass": "bitwiseAnd",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "calculategrade",
+            "request": "launch",
+            "mainClass": "calculategrade",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "calculateproduct",
+            "request": "launch",
+            "mainClass": "calculateproduct",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "choiseSwitch",
+            "request": "launch",
+            "mainClass": "choiseSwitch",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "comments",
+            "request": "launch",
+            "mainClass": "comments",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "cubeofnumber",
+            "request": "launch",
+            "mainClass": "cubeofnumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "divisbleby5",
+            "request": "launch",
+            "mainClass": "divisbleby5",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "divisbleby5or10",
+            "request": "launch",
+            "mainClass": "divisbleby5or10",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "divisibleby5not3",
+            "request": "launch",
+            "mainClass": "divisibleby5not3",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "doubledatatype",
+            "request": "launch",
+            "mainClass": "doubledatatype",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "driverlicines",
+            "request": "launch",
+            "mainClass": "driverlicines",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "else_if_ladder",
+            "request": "launch",
+            "mainClass": "else_if_ladder",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "evenodd",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "factorialOfNumber",
+            "request": "launch",
+            "mainClass": "factorialOfNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "forloop1to10print",
+            "request": "launch",
+            "mainClass": "forloop1to10print",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "functionAddition",
+            "request": "launch",
+            "mainClass": "functionAddition",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "gretestofThree",
+            "request": "launch",
+            "mainClass": "gretestofThree",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ifelsee",
+            "request": "launch",
+            "mainClass": "ifelsee",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "ifelseladder",
+            "request": "launch",
+            "mainClass": "ifelseladder",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "incrementdecrementoperator",
+            "request": "launch",
+            "mainClass": "incrementdecrementoperator",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "inputEvenOdd",
+            "request": "launch",
+            "mainClass": "inputEvenOdd",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "leapYear",
+            "request": "launch",
+            "mainClass": "leapYear",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "logicaloperator",
+            "request": "launch",
+            "mainClass": "logicaloperator",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "max_of_three",
+            "request": "launch",
+            "mainClass": "max_of_three",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "maxof3",
+            "request": "launch",
+            "mainClass": "maxof3",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "maxof5number",
+            "request": "launch",
+            "mainClass": "maxof5number",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "multiplicationTable",
+            "request": "launch",
+            "mainClass": "multiplicationTable",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "nested_if_else1",
+            "request": "launch",
+            "mainClass": "nested_if_else1",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "nnaturalNumberSum",
+            "request": "launch",
+            "mainClass": "nnaturalNumberSum",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "oddsum",
+            "request": "launch",
+            "mainClass": "oddsum",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "patternprint1",
+            "request": "launch",
+            "mainClass": "patternprint1",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "positiveNegativeZero",
+            "request": "launch",
+            "mainClass": "positiveNegativeZero",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "practise",
+            "request": "launch",
+            "mainClass": "practise",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "primitivedatatype",
+            "request": "launch",
+            "mainClass": "primitivedatatype",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "printingNumber",
+            "request": "launch",
+            "mainClass": "printingNumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "productCalculate",
+            "request": "launch",
+            "mainClass": "productCalculate",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "profitLoss",
+            "request": "launch",
+            "mainClass": "profitLoss",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "shorthandoperator",
+            "request": "launch",
+            "mainClass": "shorthandoperator",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "sideofTriangle",
+            "request": "launch",
+            "mainClass": "sideofTriangle",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "simpleIntreset",
+            "request": "launch",
+            "mainClass": "simpleIntreset",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "simple_interest",
+            "request": "launch",
+            "mainClass": "simple_interest",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "squareofnumber",
+            "request": "launch",
+            "mainClass": "squareofnumber",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "sumof2Num",
+            "request": "launch",
+            "mainClass": "sumof2Num",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "swap2",
+            "request": "launch",
+            "mainClass": "swap2",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "swappingof2number",
+            "request": "launch",
+            "mainClass": "swappingof2number",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "table_print",
+            "request": "launch",
+            "mainClass": "table_print",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "takinginput",
+            "request": "launch",
+            "mainClass": "takinginput",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "threeDigitornot",
+            "request": "launch",
+            "mainClass": "threeDigitornot",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "Java_cb4f31db"
+        },
+        {
+            "type": "java",
+            "name": "young_age",
+            "request": "launch",
+            "mainClass": "young_age",
+            "projectName": "Java_cb4f31db"
+        }
+    ]
+}
