@@ -1,2 +1,2 @@
-# Programming
+# Programs 
 All Logical Programming
