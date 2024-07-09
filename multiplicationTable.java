@@ -7,6 +7,7 @@ Scanner sc = new Scanner (System.in);
 System.out.println("Welcome to multiplication calculator :");
 System.out.print("Enter a table number :");
 int inputNum = sc.nextInt();
+sc.close();
 printmultiplicationTable(inputNum);
 }
 public static void printmultiplicationTable(int a )
